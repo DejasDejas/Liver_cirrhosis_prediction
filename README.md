@@ -1,7 +1,7 @@
 Liver_cirrhosis_prediction
 ==============================
 
-use xgboost to predict liver cirrhosis in a patient based on certain lifestyle and health conditions of a patients.
+Use xgboost to predict liver cirrhosis in a patient based on certain lifestyle and health conditions of a patients.
 
 Project Organization
 ------------
@@ -53,5 +53,3 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
